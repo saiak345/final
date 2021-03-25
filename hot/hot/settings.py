@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'te0y@44i80kgr^!lizt%&*clpf+b5n$bz7@7qu26jxem^#yv6&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['hotpic.herokuapp.com']
 
